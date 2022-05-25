@@ -1,5 +1,6 @@
 import hashlib
 import os
+import readLines
 
 sender = input('Отправитель: ')
 money = input('Кол-во: ')
